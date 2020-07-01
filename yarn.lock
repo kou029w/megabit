@@ -3,9 +3,9 @@
 
 
 "@chirimen/ads1015@~1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@chirimen/ads1015/-/ads1015-1.0.1.tgz#c92fe6fcc538c20ab44573326b8e8ac232313997"
-  integrity sha512-DEecY3aeumJxlR64a5ic7J5tnx54zmFpAP1xZXrQrRvp3xgbzFdh7/kz2kU1aC/EO5CD61V00hf5dsjTri38aA==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@chirimen/ads1015/-/ads1015-1.0.3.tgz#dcf2e93735645e78893072330ac9e39cd560b1d8"
+  integrity sha512-MNKc6PDxrp2k06OBXU6HXedBPQwN6w/LK37lKV74oat+COQILTlB2FRFpiBYyCioWqPDIyb2yMgz+GwE13pkkg==
 
 "@chirimen/adt7410@~1":
   version "1.0.1"
