@@ -8,9 +8,9 @@
   integrity sha512-DEecY3aeumJxlR64a5ic7J5tnx54zmFpAP1xZXrQrRvp3xgbzFdh7/kz2kU1aC/EO5CD61V00hf5dsjTri38aA==
 
 "@chirimen/adt7410@~1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@chirimen/adt7410/-/adt7410-1.0.1.tgz#f31c9bb1de20619ceda4e932204b5b6697e7819c"
-  integrity sha512-SeEZ/BhTiTgHzoXVV9WwyqlxTq1yibnXhHZ/4emj6dm4lMbMbRQQWcD75OPRTPhUWMueBW5gSH3Xu/NHnxfCkw==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@chirimen/adt7410/-/adt7410-1.0.4.tgz#6ba993c89dde11206280ad86caf94ab623847d97"
+  integrity sha512-1A//JRJ0gYSm9RkkweCzbhAx/Er73adyAGEj4PDtNHGC2ysqvXLpEeY48M8tNZ6glbqDH4/ktmif+CH318rQrQ==
 
 "@chirimen/gp2y0e03@~1":
   version "1.0.1"
