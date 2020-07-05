@@ -23,9 +23,9 @@
   integrity sha512-zt0sJdGZBad3vLPqBIRRbhCce9rzB3Bi8GHqVihEbFzbXphC5wCWS3AR6v5FqrNV0U4gbsbwZ3yAVEQ3I0XyWQ==
 
 "@chirimen/grove-gesture@~1":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@chirimen/grove-gesture/-/grove-gesture-1.0.0.tgz#71de0db2a4d48bcf5cac97b5d961213978929388"
-  integrity sha512-g8TmoA7H7+oJm77Kg2Ot0kucSlEhge5fC0Obv3CPoTah3hyjjCz07ujS/aJPe9aeDAmFK3rtkpkXzCqTcr8dag==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@chirimen/grove-gesture/-/grove-gesture-1.0.2.tgz#697748a17d95a4f14d4b4a17264740ec2a9b2efd"
+  integrity sha512-tkKuh5W0q5YydSOhy0eq4JAafnwPTc2Qb9muO2LsBtuVOmcqucIojWzlvfIkNVFIwRRQm5i6ukfz6YPHBJqSTw==
 
 "@chirimen/grove-light@~1":
   version "1.0.0"
