@@ -37,7 +37,7 @@
   "devDependencies": {
     "@types/node": "~12",
     "npm-run-all": "~4",
-    "typedoc": "~0.16",
+    "typedoc": "~0.20.0",
     "typescript": "~3.7"
   },
   "scripts": {
