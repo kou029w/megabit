@@ -28,9 +28,9 @@
   integrity sha512-g8TmoA7H7+oJm77Kg2Ot0kucSlEhge5fC0Obv3CPoTah3hyjjCz07ujS/aJPe9aeDAmFK3rtkpkXzCqTcr8dag==
 
 "@chirimen/grove-light@~1":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@chirimen/grove-light/-/grove-light-1.0.0.tgz#da0ec85802f99cd5d6d946ca74792dd6cb55c6b1"
-  integrity sha512-3lHXKxO4mYVCgCm48+LtkbHgOQXFTg38TawU3Duto9jJK1sK2FwLDjPvLKAjLQm4ijpRaeOwDxyOMtu6WBljlA==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@chirimen/grove-light/-/grove-light-1.0.4.tgz#24bbfd3e1458baa67d8de798675f7c260f03e3b1"
+  integrity sha512-dEOBU15D0W7Wws/8+v3YD8BhitCqX3g4z/dycPuk2ykYzvruzL1CPSwLxNuSA0XCpsd2aoOnO+JMSLU6kPRBSw==
 
 "@chirimen/grove-oled-display@~1":
   version "1.1.0"
