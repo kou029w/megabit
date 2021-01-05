@@ -18,9 +18,9 @@
   integrity sha512-xdxN8lT0geAwzDDLm3fEOPqMgDgNMSFKCDE0AuijPvB4qtXwK5eAbQk/a/8MtA7kabi+znfiLDbgK3NWyO/KCg==
 
 "@chirimen/grove-accelerometer@~1":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@chirimen/grove-accelerometer/-/grove-accelerometer-1.0.0.tgz#740dd22d0bcc39c3eedfec237dbde9e9cdfa044b"
-  integrity sha512-zt0sJdGZBad3vLPqBIRRbhCce9rzB3Bi8GHqVihEbFzbXphC5wCWS3AR6v5FqrNV0U4gbsbwZ3yAVEQ3I0XyWQ==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@chirimen/grove-accelerometer/-/grove-accelerometer-1.0.4.tgz#f5e95fde4df70bdbb69f1a41017b4267ec6cbe6b"
+  integrity sha512-+C/r/b+ZhSJSzpigFJf0FcjWKeeYwe+8wq/gfwkskfXENz9Xf8STk2DZRMKNWHrdD0rnnsutLgdI303UgcxrqA==
 
 "@chirimen/grove-gesture@~1":
   version "1.0.0"
