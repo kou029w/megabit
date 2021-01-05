@@ -13,9 +13,9 @@
   integrity sha512-SeEZ/BhTiTgHzoXVV9WwyqlxTq1yibnXhHZ/4emj6dm4lMbMbRQQWcD75OPRTPhUWMueBW5gSH3Xu/NHnxfCkw==
 
 "@chirimen/gp2y0e03@~1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@chirimen/gp2y0e03/-/gp2y0e03-1.0.1.tgz#a44430181cf9755ba9adbf02af035cda1f88254d"
-  integrity sha512-xdxN8lT0geAwzDDLm3fEOPqMgDgNMSFKCDE0AuijPvB4qtXwK5eAbQk/a/8MtA7kabi+znfiLDbgK3NWyO/KCg==
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@chirimen/gp2y0e03/-/gp2y0e03-1.0.5.tgz#0580697aebce2bfe68236eeddd5e6e15cf1c00b2"
+  integrity sha512-U9jPUtquV3US8cBGAVu2KADxIHIseKsKrp4i/8WP+BlY9qzX5aw25rkwSt+mKYXohEITWixqHUFUvjFcPe1zCA==
 
 "@chirimen/grove-accelerometer@~1":
   version "1.0.0"
