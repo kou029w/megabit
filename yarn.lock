@@ -33,9 +33,9 @@
   integrity sha512-3lHXKxO4mYVCgCm48+LtkbHgOQXFTg38TawU3Duto9jJK1sK2FwLDjPvLKAjLQm4ijpRaeOwDxyOMtu6WBljlA==
 
 "@chirimen/grove-oled-display@~1":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@chirimen/grove-oled-display/-/grove-oled-display-1.1.0.tgz#45a0a0f0c5160c59f8d88abca9daaef5e3e4c36a"
-  integrity sha512-KkQftT3CW1oReRbArlMoiOJX6xFO/3856iwN8mDPq+a0mz/UhD6qbjrgAH10nPebV05EJUos+dtQe1DrP85WGQ==
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@chirimen/grove-oled-display/-/grove-oled-display-1.1.4.tgz#661f853d26ddc43e21dbe6145307c89c7790308a"
+  integrity sha512-TwwWeFG3hTvjNpr77A48Jh78ARMk8Nsi27qceYBe8XWdQE+BvhWHSrBQcLFZVVQBLvhy+G0ZdJAXfkglGH4VYw==
 
 "@chirimen/grove-touch@~1":
   version "1.0.0"
