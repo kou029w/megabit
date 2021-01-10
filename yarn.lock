@@ -43,9 +43,9 @@
   integrity sha512-d4E3pv8OuqR1xRh5wGZHYYbskd+qkjDw2+/UPm1Id54bBzg54dQ6FCAm56tPVvs34NOAm+S7e7GHw49+yF66dQ==
 
 "@chirimen/pca9685@~1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@chirimen/pca9685/-/pca9685-1.0.1.tgz#7d6de987f6612c6bd6d7540b3e3ece09b2d26220"
-  integrity sha512-iEignBzmxn+f+WKDFTd3I78HQurEYlM1l54b5e8kDTWsbkyKb2MJA792NdJcOSkX/Obf05IbW8H7GwgcNolwxQ==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@chirimen/pca9685/-/pca9685-1.0.7.tgz#26704284363bdbec022c0c9e6af3f985f9d6bd82"
+  integrity sha512-LktEWn5YY4JDhS/tofi8nRntjm5JHIrlE3kikKxG0+MOSKpiYLzfaBumFug5mC9Djz9YQBhfUywxn4bQaeTonA==
 
 "@chirimen/s11059@~1":
   version "1.0.2"
