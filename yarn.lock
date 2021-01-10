@@ -38,9 +38,9 @@
   integrity sha512-KkQftT3CW1oReRbArlMoiOJX6xFO/3856iwN8mDPq+a0mz/UhD6qbjrgAH10nPebV05EJUos+dtQe1DrP85WGQ==
 
 "@chirimen/grove-touch@~1":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@chirimen/grove-touch/-/grove-touch-1.0.0.tgz#684b5b72c6904779c515426be4d1ebc15fe3e00a"
-  integrity sha512-d4E3pv8OuqR1xRh5wGZHYYbskd+qkjDw2+/UPm1Id54bBzg54dQ6FCAm56tPVvs34NOAm+S7e7GHw49+yF66dQ==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@chirimen/grove-touch/-/grove-touch-1.0.4.tgz#f4087f8fd57c3bd91972ff99bc8a3c1666022e71"
+  integrity sha512-wk2FOf0U+h2xYAUVw47Jdq4iahhn2FfOQs7l9unGv+L7J3Tt5NPt96j7E+cg2eAhLlZ5AT0hse/LP/jNhMExdA==
 
 "@chirimen/pca9685@~1":
   version "1.0.1"
