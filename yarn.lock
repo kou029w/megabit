@@ -53,9 +53,9 @@
   integrity sha512-qj9Vp9pxEsL5XF1bM374xAWIpDJFnM3kx03UZnkZzHI76RG03+ghoh6iNu8eicy2fM55LIForUV+ZQDNcqOy1A==
 
 "@chirimen/veml6070@~1":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@chirimen/veml6070/-/veml6070-1.0.0.tgz#407fdef1f1a6017196879b90fad8858eb20ad33a"
-  integrity sha512-tF42hu9y3oTEuOEKp4FlnvhuklSZszeWnlcVSMbyZX/xuvgZBTvNNPdWlqfLSor7Rduu1olfKSk8wsy9ha/R2w==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@chirimen/veml6070/-/veml6070-1.0.4.tgz#040fe512e55b5ad70a80d112a8b83ed1e6c24e34"
+  integrity sha512-W9XblEGwFpxmWoHQTI3fohzej1GFz0xR3ccvZctvJm+1+bx5g5Gn6dhSAGsC7oky2i0SxteM2moYt1SU9K40mA==
 
 "@chirimen/vl53l0x@~1":
   version "1.0.3"
