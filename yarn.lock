@@ -58,9 +58,9 @@
   integrity sha512-tF42hu9y3oTEuOEKp4FlnvhuklSZszeWnlcVSMbyZX/xuvgZBTvNNPdWlqfLSor7Rduu1olfKSk8wsy9ha/R2w==
 
 "@chirimen/vl53l0x@~1":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@chirimen/vl53l0x/-/vl53l0x-1.0.3.tgz#847b14f5c400047f5c129ae2e85559df066531c3"
-  integrity sha512-Cna26V7q/2u2bcbJERypiedz2iEwT3fFNlRzL6cCQ6cR97ukOPdgGHH7EVfoNrqZb4TuRP77GSySqkZpgxoNwA==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@chirimen/vl53l0x/-/vl53l0x-1.0.7.tgz#7a435b28818f5bd5a3b9e808f0e5caddff598bde"
+  integrity sha512-26A8mHwOADhbESwmabksxFGmnFXaglojDosTq9upyrPZv7SwqQ59gkFuO2wXxeSlgKajs9og8JuL3utyz2iOLA==
 
 "@types/minimatch@3.0.3":
   version "3.0.3"
