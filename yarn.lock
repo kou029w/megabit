@@ -407,9 +407,9 @@ nice-try@^1.0.4:
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
 node-web-gpio@~1:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/node-web-gpio/-/node-web-gpio-1.0.0.tgz#ea75726a792c64cba09a9d65bc191294c531eded"
-  integrity sha512-bNYPeLK+tBBOE92Hc7B+5n4dEMEbH+Ai3toQk3Fc2YqaR1GFhTN6zSqHT6bIjmjvJSHsWE2xKOrcAL2ge+2qpQ==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/node-web-gpio/-/node-web-gpio-1.0.6.tgz#2165a377d57ed1e6e2354efdddcf571aa5d9c593"
+  integrity sha512-3cz0Cz4bKje23iV2Raa5okAhfARvBj8xV9CWZBgnlK2yMWXXkxxU6VvnmxHrYrx1AdGQou6jjFcVlkL7dNzI/Q==
 
 node-web-i2c@~1:
   version "1.1.3"
