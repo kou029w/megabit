@@ -38,7 +38,7 @@
     "node-web-i2c": "~1"
   },
   "devDependencies": {
-    "@types/node": "~16",
+    "@types/node": "~18.17.0",
     "npm-run-all": "~4",
     "typescript": "~4.4.0"
   },
