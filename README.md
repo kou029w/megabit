@@ -1,3 +1,5 @@
+**このプロジェクトは現在メンテナンスされていません。もしフィードバックあれば[Mastodon/ActivityPub](https://fogtype.com/@nebel)にてお寄せください。**
+
 # Megabit
 
 [![jsDocs.io](https://img.shields.io/badge/jsDocs.io-reference-blue)](https://www.jsdocs.io/package/megabit)
